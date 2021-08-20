@@ -1,0 +1,25 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeDass98/URL-Shortener.git"
+  },
+  "author": "Jerome Dass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeDass98/URL-Shortener/issues"
+  },
+  "homepage": "https://github.com/JeromeDass98/URL-Shortener#readme",
+  "dependencies": {
+    "connect-mongo": "^4.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
